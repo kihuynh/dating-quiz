@@ -1,3 +1,7 @@
-.results {
+p {
+  display: none;
+}
+
+#dwayne, #angelina, #elon, #zendaya, #morgan {
   display: none;
 }
